@@ -50,15 +50,15 @@
 .profile-container {
 	width: 100%;
 	height: auto;
-	margin-top: 80px;
-	margin-bottom: 40px;
+	margin-top: 90px;
+	margin-bottom: 50px;
 }
 
 .Profile-image {
 	width: 100%;
 	height: 100%;
-	max-width: 250px;
-	max-height: 250px;
+	max-width: 300px;
+	max-height: 300px;
 	margin-left: auto;
 	margin-right: auto;
 	border-radius: 100%;
@@ -111,7 +111,7 @@
 
 .p1 {
 	font-size: 18px;
-	padding: 20px 0 50px 0;
+	padding: 20px 0 40px 0;
 	font-family: 'raleway';
 	text-align: justify;
 }
@@ -375,7 +375,7 @@
 }
 
 #company-picture {
-	padding-top: 60px;
+	padding-top: 50px;
 	height: auto;
 	text-align: center;
 }
@@ -408,7 +408,7 @@
 }
 
 #edu-picture {
-	padding-top: 60px;
+	padding-top: 50px;
 	height: auto;
 	text-align: center;
 }
@@ -608,8 +608,8 @@
 	}
 
 	.Profile-image {
-		max-width: 240px;
-		max-height: 240px;
+		max-width: 250px;
+		max-height: 250px;
 	}
 
 	.all-projects {
