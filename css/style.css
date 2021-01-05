@@ -656,6 +656,17 @@
 	}	
 }
 
+@media (max-width: 768px){
+	.navbar-right {
+		float: none!important;
+		margin-right: 0px;
+	}
+	.navbar-nav {
+		float: none;
+		margin: 0;
+	}
+}
+
 @media (max-width: 768px) and (min-width:520px) {
 	.Profile-image {
 		max-width: 225px;
